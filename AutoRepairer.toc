@@ -1,0 +1,7 @@
+## Interface: 80200
+## Title: AutoRepairer
+## Author: Sam Caulfield <sam@samcaulfield.com>
+## Notes: Automatically repair gear when merchant windows are opened.
+## Version 1.0
+AutoRepairer.lua
+
